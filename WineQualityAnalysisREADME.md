@@ -22,7 +22,8 @@ Cortez,Paulo, Cerdeira,A., Almeida,F., Matos,T., and Reis,J.. (2009). Wine Quali
 - Tableau
 
 ## Results
-[Presentation](https://docs.google.com/presentation/d/18nqmfrgjqGF4xc0TjTEjMs5P8dH_pp-TG4lBHklzeTc/edit?usp=sharing)
+[Presentation](https://docs.google.com/presentation/d/1D2xqhOtNcgYw83U4bsxIT904YXrs7HHs1NYsrO5UVcE/edit#slide=id.g2778412bbfa_0_0)
+
 
 The most accurate model found was a Random Forest Classifier, giving us a predictive accuracy of .67. We tried many other models, including Neural Networks, with worse results. The most accurate model was used to explore the importance of the induvidual features. The most important features for both Red and White wines were Alchohol and Density, with a Red Wine accuracy of .45 and .41 respectively. White wine predictive accuracy for both of those features was .31. 
 
